@@ -22,3 +22,8 @@ https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html
+
+
+
+
+
