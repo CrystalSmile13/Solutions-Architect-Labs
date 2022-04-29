@@ -27,3 +27,12 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html
 
 
 
+
+1.**Lauch AWS cloud shell**
+
+i opened the cloudshell on aws search engine and the environment was loaded to run the command.
+
+
+
+
+
