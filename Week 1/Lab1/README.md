@@ -32,6 +32,14 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html
 
 i opened the cloudshell on aws search engine and the environment was loaded to run the command.
 
+2. **Create a s3 bucket**
+
+
+
+
+
+
+
 
 
 
