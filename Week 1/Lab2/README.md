@@ -16,3 +16,14 @@ https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html
+
+
+
+
+. Launch AWS Console
+I opened Aws
+
+launched S3bucket, created bucket, choose a region
+
+I choose the bucket, clicked management tab, and created lifecycle rule.
+
