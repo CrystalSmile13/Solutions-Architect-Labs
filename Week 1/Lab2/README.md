@@ -20,10 +20,35 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html
 
 
 
-. Launch AWS Console
-I opened Aws
+**Launch AWS Console
+*I opened Aws
 
-launched S3bucket, created bucket, choose a region
+**create s3 bucket
+*launched S3bucket, created bucket    **crystalsmile
 
-I choose the bucket, clicked management tab, and created lifecycle rule.
+*I choose the Ec2, clicked management tab, and created lifecycle rule  **policy-07324a8cb3b8ff90e.
 
+**create bucket policy: *I clicked the console, clicked the **crystalsmile bucket, choose permission
+Edited bucket policy, choose policy generator
+on the policy generator, I picked s3 bucket policy.
+amazon resource name:   arn:aws:s3:::crystalsmile
+
+{
+  "Id": "Policy1653410529467",
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "Stmt1653407699483",
+      "Action": [
+        "s3:CreateBucket"
+      ],
+      "Effect": "Allow",
+      "Resource": "arn:aws:s3:::crystalsmile",
+      "Principal": {
+        "AWS": [
+          "mariam"
+        ]
+      }
+    }
+  ]
+}
