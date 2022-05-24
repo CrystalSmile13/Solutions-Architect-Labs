@@ -52,3 +52,12 @@ amazon resource name:   arn:aws:s3:::crystalsmile
     }
   ]
 }
+
+
+
+**delete policy
+*searched Ec2 policy, picked the policy, clicked action, then delete
+
+
+**delete s3 bucket
+* picked the bucket, then delete.
