@@ -22,3 +22,15 @@ https://docs.aws.amazon.com/cli/latest/reference/ec2/
 
 https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-vpcs.html
 
+
+
+
+**launched AWS management console
+
+**launch a VPC with one public and one private subnet:
+
+In the panel, I choose VPC dashboard, launched the VPC wizard, choose VPC, SUBNETS,etc with the IPv4 10.0.0.0/16
+enabled 1 public and private subnets.
+
+**create two route table and associate each one to each subnets
+
