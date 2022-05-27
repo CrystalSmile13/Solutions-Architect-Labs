@@ -13,3 +13,15 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.ht
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example-ipv6.html
 
 https://docs.aws.amazon.com/vpc/index.html
+
+
+
+
+
+I created a VPC with a 10.0.0.0/16 CIDR block,
+copied the ID; vpc-04cff87b6dccf6c15, use it to create subnet
+created anothder subnet using the same vpc
+
+I made the subnet a public subnet
+by creating  an internet gateway, used the ID of the internet gateway; igw-0288114c911204f21 to attach internet gateway command,
+created a custom route table
