@@ -29,8 +29,22 @@ https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-vpcs.html
 
 **launch a VPC with one public and one private subnet:
 
-In the panel, I choose VPC dashboard, launched the VPC wizard, choose VPC, SUBNETS,etc with the IPv4 10.0.0.0/16
-enabled 1 public and private subnets.
+In the panel, I choose VPC dashboard, launched the VPC wizard, choose VPC
+with the IPv4 10.0.0.0/16
+
+on the control panel, I picked the subnets
+
+created a new subnet, selsected the vpc previously created; vpc 1
+
+picked the avaiability zone, IPv4 CIDR block; 10.0.0.0/24
+
+subnet 2
+add new subnet
+
+name; private subnet, picked availabilty zone, IPv4 CIDR block 10.0.1.0/24
+
+created the subnets.
+
 
 **create two route table and associate each one to each subnets
 
